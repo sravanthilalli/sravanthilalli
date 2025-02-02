@@ -1,5 +1,5 @@
 👋 About Me
-I’m Bangaru Lakshmi Sravanthi (Lally), a 4th-year B.Tech student passionate about AI, ML, and Software Development. I enjoy working on real-world projects, exploring new technologies, and improving my coding skills.
+I’m Bangaru Lakshmi Sravanthi , a 4th-year B.Tech student passionate about AI, ML, and Software Development. I enjoy working on real-world projects, exploring new technologies, and improving my coding skills.
 
 🎯 Interests:
 💻 AI & Machine Learning – Exploring algorithms, models, and applications
